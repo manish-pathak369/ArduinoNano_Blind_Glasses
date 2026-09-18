@@ -11,7 +11,7 @@ An Arduino-based assistive project that uses an **HC-SR04 ultrasonic sensor** to
 
 ## Circuit
 
-![Ultrasonic Blind Glass Circuit](./circuit/blind_glass.jpeg)
+![Ultrasonic Blind Glass Circuit](./circuit/blind_glasses.jpeg)
 
 ### Pin Connections
 
